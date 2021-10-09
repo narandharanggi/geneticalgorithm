@@ -1,0 +1,26 @@
+{
+  "name": "geneticalgorithm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "postcss ./static/src/style.css -o ./static/dist/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranggics/geneticalgorithm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranggics/geneticalgorithm/issues"
+  },
+  "homepage": "https://github.com/ranggics/geneticalgorithm#readme",
+  "dependencies": {
+    "autoprefixer": "^10.3.7",
+    "postcss": "^8.3.9",
+    "postcss-cli": "^9.0.1",
+    "tailwindcss": "^2.2.16"
+  }
+}
